@@ -2,9 +2,8 @@
 
 Undergraduate Thesis (22th April 2024)
 
-Author: Steve Hong
-Supervisor: Prof. Petros Dellaportas & Miss Domna Ladopoulou
-
+**Author**: Steve Hong \\
+**Supervisor**: Prof. Petros Dellaportas & Miss Domna Ladopoulou
 
 Gaussian Processes are becoming a popular framework in monitoring wind turbines’ condition, especially for early fault detection, thanks to their expressiveness, robustness, and tractability. The performance of this type of model is significantly affected by the selection of kernel functions. Most of the existing research in wind turbine monitoring with Gaussian Processes employs standard stationary kernels, which are not optimal for wind power forecasting where patterns are inherently com- plex. This project aims to leverage scalable, non-stationary and multi-task kernel designs to apply Gaussian Process regression on a wind farm SCADA dataset and conduct a comparative analysis of their performance against baseline models.
 
