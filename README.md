@@ -1,6 +1,6 @@
 # Wind Turbine Monitoring with Non-Stationary and Multi-Task Gaussian Processes
 
-Undergraduate Thesis (22th April 2024)
+Undergraduate Thesis (22nd April 2024)
 
 **Author**: Steve Hong
 
